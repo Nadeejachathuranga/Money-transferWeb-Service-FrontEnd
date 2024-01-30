@@ -1,0 +1,97 @@
+#secFirstMainDivLeftSide{
+    width: 500px;
+    margin-left: 50px;
+    position: relative;
+    float: left;
+}
+#secFirstMainDivRightSide{
+    position: relative;
+    float: right;
+    width: 600px;
+    height: 600px;
+}
+#secFirstMainDivRightSideImgTwo{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#secFirstMainDivRightSideImg{
+    width: 600px;
+    height: 550px;
+}
+#LoginFmMainDivFrontDivImg{
+    width: 600px;
+    height: 550px;
+}
+#money{
+    color: #4834d4;
+}
+#h1first,#h1second,#money{
+    font-size: 75px;
+    margin-left: 50px;
+}
+#h6first{
+    margin-left: 50px;
+    font-weight: bold;
+    margin-top: 35px;
+}
+#createAccountBtn{
+ margin-left: 60px;
+ margin-top: 10px;
+    width: 120px;
+    height: 45px;
+
+}
+#signInBtn{
+    margin-top: 10px;
+    width: 120px;
+    height: 45px;
+    margin-left: 10px;
+}
+#LoginFmMainDivBackDiv{
+    width: 600px;
+    height:550px;
+    position: relative;
+    float: right;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: #f1f2f6;
+    border-radius: 60px;
+    border: white solid 1px;
+}
+#LoginFmMainDivFrontDiv{
+    position: relative;
+    float: left;
+}
+#lgUserNameTxt{
+    margin-top: 80px;
+}
+#lgUserPasswordTxt{
+    margin-top: 20px;
+}
+#loginBtnInLoginForm{
+    margin-top: 20px;
+    margin-left: 80px;
+    width:400px;
+}
+
+#createAccountFormMainDiv{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#createAccountFormMainDivLeftDiv{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+#createAccountFormMainDivLeftDiv1,#createAccountFormMainDivLeftDiv2,#createAccountFormMainDivLeftDiv3{
+    width: 600px;
+}
+#firstNameTxtcaf,#LastNameTxtcaf,#NicNumberTxtcaf,#emailAddressTxtcaf,#TpTxtcaf,#AddressTxtcaf,#passwordTxtcaf,#conformPassworTxtcaf{
+    margin: 30px;
+    width: 350px;
+}
+#CreateAccountBtnIncaf{
+    width: 150px;
+    height: 40px;
+    margin-bottom: 20px;
+    margin-left: 430px;
+}
