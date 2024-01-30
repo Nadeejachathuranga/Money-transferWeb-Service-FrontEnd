@@ -1,3 +1,3 @@
 $("#CreateAccountBtnIncaf").click(function () {
-   alert("test");
+   window.location.href="../pages/HomePage.html";
 });
