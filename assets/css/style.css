@@ -95,3 +95,37 @@
     margin-bottom: 20px;
     margin-left: 430px;
 }
+#HomePageMainDive{
+    margin: 30px;
+}
+#HomePageMainDiveLeftDiv{
+    margin-top: 50px;
+    height: 450px;
+    width: 250px;
+    position: relative;
+    float: left;
+}
+#HomePageMainDiveRightDiv{
+    position: relative;
+    float:right;
+    width: 1000px;
+    margin-top: 80px;
+}
+#allBtnInHp,#receiveBtnInHp,#sendBtnInHp{
+    margin-top: 15px;
+    background-color: #5352ed;
+}
+#MyInfoDivInHm{
+    position: relative;
+    float: left;
+    border: #f1f2f6 solid 1px;
+    border-radius: 10px;
+    background-color: #f1f2f6;
+}
+#nameMyInfoDivInHm,#accMyInfoDivInHm ,#emailMyInfoDivInHm ,#tpMyInfoDivInHm{
+    margin-left: 10px;
+}
+#nameMyInfoDivInHm{
+    margin-top: 10px;
+    margin-right: 10px;
+}
