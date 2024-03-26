@@ -139,3 +139,11 @@
     position: relative;
     float: left;
 }
+#HomeContentDiv{
+    width: 800px;
+    height: 140px;
+    border: black solid 1px;
+    margin-left: 310px;
+    position: absolute;
+    margin-top: 250px;
+}
