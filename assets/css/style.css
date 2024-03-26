@@ -129,3 +129,13 @@
     margin-top: 10px;
     margin-right: 10px;
 }
+#MyBalanceInfoDivInHm{
+    margin-left: 10px;
+    border: #f1f2f6 solid 1px;
+    border-radius: 10px;
+    background-color: #f1f2f6;
+    width: 300px;
+    height: 130px;
+    position: relative;
+    float: left;
+}

@@ -4,7 +4,7 @@ $("#loginBtnInLoginForm").click(function () {
 });
 function test() {
     const tst=document.createElement("h6");
-    tst.innerHTML="testing";
+    tst.innerHTML="testing done";
     const gg=document.getElementById("LoginFmMainDivBackDiv");
     gg.appendChild(tst)
 }
